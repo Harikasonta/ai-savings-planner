@@ -10,8 +10,8 @@ This project is designed to solve a real-world problem — managing money effect
 
 *(Add your deployed links here after deployment)*
 
-* Frontend: https://your-frontend-link
-* Backend: https://your-backend-link
+* Frontend: https://ai-savings-planner.vercel.app
+* Backend: https://ai-savings-planner.onrender.com
 
 ---
 
